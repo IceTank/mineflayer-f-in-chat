@@ -1,7 +1,7 @@
 {
-  "name": "mineflayer-plugin-template",
+  "name": "mineflayer-f-in-chat",
   "version": "1.0.0",
-  "description": "A template repository for creating Mineflayer plugins using Typescript.",
+  "description": "A Plugin for mineflayer that makes the bot quit when someone types f in chat",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDudeFromCI/mineflayer-plugin-template.git"
+    "url": "git+https://github.com/IceTank/mineflayer-f-in-chat.git"
   },
   "keywords": [
     "mineflayer",
     "plugin",
-    "template"
+    "f-in-chat"
   ],
-  "author": "TheDudeFromCI",
+  "author": "IceTank",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheDudeFromCI/mineflayer-plugin-template/issues"
+    "url": "https://github.com/IceTank/mineflayer-f-in-chat/issues"
   },
-  "homepage": "https://github.com/TheDudeFromCI/mineflayer-plugin-template#readme",
+  "homepage": "https://github.com/IceTank/mineflayer-f-in-chat#readme",
   "dependencies": {
     "mineflayer": "^2.21.0"
   },

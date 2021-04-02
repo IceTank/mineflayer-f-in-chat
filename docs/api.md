@@ -1,11 +1,16 @@
 # API <!-- omit in toc -->
 
-Welcome to the *mineflayer-plugin-template* API documentation page.
+Welcome to the *mineflayer-f-in-chat* API documentation page.
 
 ## Table of Contents <!-- omit in toc -->
 
-- [1. Summary](#1-summary)
+- [1. Usage](#1-usage)
+- [2. Compatibility](#2-compatibility)
 
-## 1. Summary
+## 1. Usage
 
-The summary.
+Type `f` in chat to make the bot quit.
+
+## 2. Compatibility
+
+You can also type the Uppercase version of `f`, `F` into chat to make the bot quit.
