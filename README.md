@@ -19,6 +19,8 @@ git clonse https://github.com/IceTank/mineflayer-f-in-chat.git
 
 ### How to use
 
+[Youtube Tutorial](https://youtu.be/CH9io-lukgQ)
+
 ```js
 const mineflayer = require("mineflayer")
 const finchat = require('path/to/plugin/index')
