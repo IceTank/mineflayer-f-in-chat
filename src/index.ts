@@ -1,3 +1,4 @@
+// @ts-ignore
 import { Bot } from 'mineflayer';
 
 export function fInChat(bot: Bot): void {

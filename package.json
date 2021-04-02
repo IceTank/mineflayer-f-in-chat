@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
+    "tsc": "tsc",
     "prepare": "tsc && require-self",
     "clean": "rm -rf lib",
     "test": "test"
