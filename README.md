@@ -64,7 +64,7 @@ To make the bot quit type the following into Minecraft chat:
 f
 ```
 
-This plugin also supports a capital letters
+This plugin also supports capital letters
 ```
 F
 ```
